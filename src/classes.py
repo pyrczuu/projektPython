@@ -1,5 +1,6 @@
 from typing import List
 from src.exercises import *
+import exercise_class
 from exercise_class import Exercise
 from exercise_class import choose_exercise
 import random
